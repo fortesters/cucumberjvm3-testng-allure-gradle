@@ -9,4 +9,4 @@ Gradle project using CucumberJVM3 with Testng and Allure reporting.
 
 3. ```gradle clean build -i```
 
-4. '''allure serve build/allure-results'''
+4. ```allure serve build/allure-results```
